@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#071028" />
+  <g transform="translate(80,80)">
+    <rect width="1040" height="560" rx="24" fill="url(#g1)" opacity="0.12"/>
+    <g transform="translate(28,28)">
+      <rect x="0" y="0" width="480" height="420" rx="20" fill="#08203a" />
+      <g transform="translate(520,40)">
+        <rect x="0" y="0" width="360" height="360" rx="20" fill="#0b1220" />
+      </g>
+      <text x="24" y="60" fill="#fff" font-size="44" font-family="Arial, Helvetica, sans-serif">Step Into Comfort</text>
+      <text x="24" y="110" fill="#dbeafe" font-size="20" font-family="Arial">Curated sneakers and footwear crafted for comfort and style.</text>
+    </g>
+  </g>
+</svg>
